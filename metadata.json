@@ -1,0 +1,5 @@
+{
+  "name": "AI Portrait Studio",
+  "description": "A professional photo studio tool using Gemini Nano Banana (Flash Image) to transform a single selfie into 6 distinct stylistic portraits, including professional, artistic, and lifestyle themes.",
+  "requestFramePermissions": []
+}
